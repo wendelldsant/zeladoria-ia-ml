@@ -8,6 +8,8 @@ Erik Yuuta Goto - RM558076
 Guilherme Vieira Augusto - RM557264
 Wendell dos Santos Silva - RM558859
 
+**Vídeo (até 5 min):** https://youtu.be/9uRK2AbNikg
+
 ## 1. Problema e dados reais
 
 A Zeladoria do Bairro permite que o morador registre um problema do espaço público e acompanhe o atendimento. A parte de ML responde a uma pergunta que importa para quem registra o chamado:
