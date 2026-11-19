@@ -12,9 +12,9 @@ Todos os dados usados são **reais e públicos**. Nenhum dado simulado foi usado
 | Licença | Creative Commons CCZero (conforme a página do dataset) |
 | Formato | CSV trimestral, separador `;`, codificação Latin-1 |
 
-## Arquivos usados (pasta `data/`, não versionada)
+## Arquivos usados (pasta `dados/`, não versionada)
 
-Cada arquivo tem cerca de 100 MB, acima do limite do GitHub, então **os CSVs não estão no repositório**. Para reproduzir, baixe-os na página do dataset (um recurso por trimestre) e salve em `data/` com estes nomes:
+Cada arquivo tem cerca de 100 MB, acima do limite do GitHub, então **os CSVs não estão no repositório**. Para reproduzir, baixe-os na página do dataset (um recurso por trimestre) e salve em `dados/` com estes nomes:
 
 | Arquivo | Trimestre | Uso |
 |---|---|---|
